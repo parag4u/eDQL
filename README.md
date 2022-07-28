@@ -28,3 +28,5 @@ We use the new JavaFX technology to create this standalone applications.
 4. Update `log4j.properties` with required changes in the `config` directory.
 5. Check command prompt with "java -version" - command should return java (JRE) version 9 or above.
 6. Execute eDQL.exe
+
+# Coming up !!! eDQL - REST (based)
